@@ -61,15 +61,12 @@ functions.
 ## Making Plots
 
 Our overall goal here is simply to examine how household energy usage
-varies over a 2-day period in February, 2007. Your task is to
+varies over a 2-day period in February, 2007. we are tasked to
 reconstruct the following plots below, all of which were constructed
 using the base plotting system.
 
-First you will need to fork and clone the following GitHub repository:
-[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
-
-For each plot you should
+For each plot we will :
 
 * Construct the plot and save it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
@@ -82,14 +79,12 @@ the `plot1.png` plot. Your code file **should include code for reading
 the data** so that the plot can be fully reproduced. You should also
 include the code that creates the PNG file.
 
-* Add the PNG file and R code file to your git repository
-
-When you are finished with the assignment, push your git repository to
-GitHub so that the GitHub version of your repository is up to
-date. There should be four PNG files and four R code files.
+* Add the PNG file and R code file to this git repository
 
 
-The four plots that you will need to construct are shown below. 
+
+
+The four plots that that we will need to construct are shown below. 
 
 
 ### Plot 1
